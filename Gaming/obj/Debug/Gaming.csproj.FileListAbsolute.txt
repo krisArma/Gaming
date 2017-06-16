@@ -1,0 +1,6 @@
+z:\users\danin\documents\visual studio 2015\Projects\Gaming\Gaming\bin\Debug\Gaming.exe.config
+z:\users\danin\documents\visual studio 2015\Projects\Gaming\Gaming\bin\Debug\Gaming.exe
+z:\users\danin\documents\visual studio 2015\Projects\Gaming\Gaming\bin\Debug\Gaming.pdb
+z:\users\danin\documents\visual studio 2015\Projects\Gaming\Gaming\obj\Debug\Gaming.csprojResolveAssemblyReference.cache
+z:\users\danin\documents\visual studio 2015\Projects\Gaming\Gaming\obj\Debug\Gaming.exe
+z:\users\danin\documents\visual studio 2015\Projects\Gaming\Gaming\obj\Debug\Gaming.pdb
